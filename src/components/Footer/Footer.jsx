@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer">
-      <p>Copyright @ 2024, CryptoGauge </p>
+      <p>Copyright @ 2024, CryptoGauge, Made by Aniket Salgaonkar </p>
     </div>
   );
 };
