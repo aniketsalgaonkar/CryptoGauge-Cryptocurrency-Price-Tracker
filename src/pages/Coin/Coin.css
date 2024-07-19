@@ -30,6 +30,7 @@
 }
 .coin-name img{
     max-width: 100px;
+ 
 }
 .coin-name p b{
     font-size: 44px;
@@ -53,9 +54,6 @@
     border-bottom: 1px solid #5f5d5f;
     list-style: none;
 }
-/* .coin-info ul li:last-child{
-    font-weight: 300;
- }   */
 
  .coin-info ul li:last-child{
     font-weight: 300;
